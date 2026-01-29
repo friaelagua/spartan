@@ -1,0 +1,2 @@
+clear
+~/projects/spartan/spartan_client.py spartan://185.125.171.77:3000 | more
